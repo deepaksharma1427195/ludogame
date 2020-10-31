@@ -23,7 +23,7 @@ class Board:
 
 class Text:
 
-    MADE_BY = 'Made By: Mansi Agrawal & Shivam Gupta'
+    MADE_BY = 'Made By: Deepak sharma'
     HEADER =  'LUDO - THE GAME'
 
 
